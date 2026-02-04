@@ -1,12 +1,27 @@
-# React + Vite
+# Employee Management Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack web application for managing employee records efficiently. The app allows administrators to add, view, edit, and delete employee information in a user-friendly interface.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Create, read, update, and delete (CRUD) employee records  
+- Responsive UI built with React.js  
+- Tailwind CSS for modern styling  
+- Persistent data storage with a backend API  
+- Clear and intuitive design for administrators  
 
-## Expanding the ESLint configuration
+## 🧠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend:** React.js, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Authentication:** JWT (if implemented)  
+- **Deployment:** Deployed on static hosting (GitHub Pages / Netlify / Vercel)
+
+## 📦 Installation
+
+Follow these steps to run the project locally:
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/aditya-raj24/employee-management-website.git
